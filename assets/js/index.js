@@ -1,4 +1,4 @@
-$(() => {
+$(function() {
     const { from, layer } = layui
     getUserInfo()
         //1.0获取用户信息
